@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Løgndetektor</string>
+    <string name="cancel">Avbryt</string>
+    <string name="common_lie">Å LIGGE</string>
+    <string name="common_truth">SANNHET</string>
+    <string name="do_you_want_to_exit">Vil du avslutte appen?</string>
+    <string name="exit">Exit</string>
+    <string name="game_analyzing">Analyserer resultat ...</string>
+    <string name="game_result_got">OK, SKJØNNER</string>
+    <string name="game_scan_abort">Skann avbrutt</string>
+    <string name="game_scan_complete">Skanning fullført.</string>
+    <string name="game_scanning">Skanner ...</string>
+    <string name="game_start">Lang Trykk på fingeravtrykk.</string>
+    <string name="guide_how">Hvordan spille</string>
+    <string name="guide_next">neste</string>
+    <string name="guide_word">Prank vennene dine. La vennen din trykke på fingeravtrykkskanneren og gjøre løgnprøven. Du kontrollerer resultatet ved å trykke på volumtasten. Volum opp-nøkkelen er sannhet og volum ned nøkkelen er løgn.</string>
+    <string name="install">Installere</string>
+    <string name="main_play">SPILLE</string>
+    <string name="main_preset">PRESET</string>
+    <string name="policy_click">Personvernregler</string>
+    <string name="policy_read">Ved å bruke dette programmet har du lest og godkjent %s.</string>
+    <string name="policy_start">Start</string>
+    <string name="preset_start">START</string>
+    <string name="preset_title">PRESET MODE</string>
+    <string name="preset_word">Forhåndsinnstilt modus lar deg forhåndsinnstille de neste 5 skanningsresultatene. Lure dine venner eller familier nå.</string>
+    <string name="privacy">Personvernregler</string>
+    <string name="rate_content">Hvis du elsker denne appen, vennligst gi oss en 5-stjernesats på Google Play. Takk så mye!</string>
+    <string name="rate_no">NEI TAKK</string>
+    <string name="rate_title">Elsker du denne appen?</string>
+    <string name="rate_yes">5 Stjerner!</string>
+</resources>

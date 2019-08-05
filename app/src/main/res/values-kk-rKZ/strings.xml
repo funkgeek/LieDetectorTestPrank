@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lie Detector</string>
+    <string name="cancel">Болдырмау</string>
+    <string name="common_lie">LIE</string>
+    <string name="common_truth">ШЫНАЙЫ</string>
+    <string name="do_you_want_to_exit">Қолданбалардан шығуды қалайсыз ба?</string>
+    <string name="exit">Шығу</string>
+    <string name="game_analyzing">Нәтижені талдау ...</string>
+    <string name="game_result_got">ОК, ӨЗІҢІЗ</string>
+    <string name="game_scan_abort">Қарап шығуды болдырмау</string>
+    <string name="game_scan_complete">Сканерлеу аяқталды.</string>
+    <string name="game_scanning">Сканерлеу ...</string>
+    <string name="game_start">Ұзын саусақ ізін басыңыз.</string>
+    <string name="guide_how">Қалай ойнауға болады</string>
+    <string name="guide_next">Келесі</string>
+    <string name="guide_word">Достарыңызды насихаттаңыз. Досыңыз саусақ ізі сканерін басып, өтірік тексеруін жасаңыз. Дауыс кнопкасын басу арқылы нәтижені басқарасыз. Дыбыс деңгейін арттыру пернесі шындық және дыбыс деңгейін төмендету кілті болып табылады.</string>
+    <string name="install">Орнату</string>
+    <string name="main_play">PLAY</string>
+    <string name="main_preset">PRESET</string>
+    <string name="policy_click">Құпиялылық саясаты</string>
+    <string name="policy_read">Осы қосымшаны пайдаланып, сіз оқып, келісесіз %s.</string>
+    <string name="policy_start">Бастау</string>
+    <string name="preset_start">START</string>
+    <string name="preset_title">PRESET MODE</string>
+    <string name="preset_word">Алдын ала орнатылған режим келесі 5 сканерлеу нәтижелерін алдын ала орнатуға мүмкіндік береді. Достарыңыз бен отбасыларыңызды қазір адастырыңыз.</string>
+    <string name="privacy">Құпиялылық саясаты</string>
+    <string name="rate_content">Егер сіз осы қосымшаны жақсы көретін болсаңыз, Google Play-те 5 жұлдызды тарифті беріңіз. Көп рақмет!</string>
+    <string name="rate_no">ЖОҚ РАҚМЕТ</string>
+    <string name="rate_title">Сіз бұл қолданбаны жақсы көресіз бе?</string>
+    <string name="rate_yes">5 жұлдыз!</string>
+</resources>

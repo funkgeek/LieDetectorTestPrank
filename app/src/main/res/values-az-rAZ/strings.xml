@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lie Detector</string>
+    <string name="cancel">Ləğv et</string>
+    <string name="common_lie">LIE</string>
+    <string name="common_truth">TRUTH</string>
+    <string name="do_you_want_to_exit">Proqramdan çıxmaq istəyirsiniz?</string>
+    <string name="exit">Çıxın</string>
+    <string name="game_analyzing">Nəticəni təhlil ...</string>
+    <string name="game_result_got">YAXŞI ANLADIM</string>
+    <string name="game_scan_abort">Tarama ləğv edildi</string>
+    <string name="game_scan_complete">Tarama tamamlandı.</string>
+    <string name="game_scanning">Tarama ...</string>
+    <string name="game_start">Uzun Parmak izi basın.</string>
+    <string name="guide_how">Necə oynamalı</string>
+    <string name="guide_next">İrəli</string>
+    <string name="guide_word">Dostlarınızla prank edin. Dostunuz barmaq izi skanerini basın və yalan testini edək. Səs düyməsini basaraq nəticəni idarə edirsiniz. Düyməsini açar sözü həqiqətdir və həcm aşağı endirilir.</string>
+    <string name="install">Yüklemek</string>
+    <string name="main_play">OYNAMAQ</string>
+    <string name="main_preset">PRESET</string>
+    <string name="policy_click">Gizlilik Siyasəti</string>
+    <string name="policy_read">Bu proqramı istifadə edərək, oxudu və qəbul etdi %s.</string>
+    <string name="policy_start">Başlamaq</string>
+    <string name="preset_start">BAŞLAMAQ</string>
+    <string name="preset_title">PRESET MODE</string>
+    <string name="preset_word">Preset Mode, növbəti 5 tarama nəticəsini önceden ayarlamanızı təmin edir. İndi dostlarınız və ailələrinizi aldatmayın.</string>
+    <string name="privacy">Gizlilik Siyasəti</string>
+    <string name="rate_content">Bu tətbiqni sevirsinizsə, bizə Google Play-də 5 ulduzlu dərəcə verin. Çox təşəkkürlər!</string>
+    <string name="rate_no">XEYR, TƏŞƏKKÜRLƏR</string>
+    <string name="rate_title">Bu app sevirsinizmi?</string>
+    <string name="rate_yes">5 Yıldız!</string>
+</resources>

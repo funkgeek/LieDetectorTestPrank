@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="200" android:drawable="@drawable/game_wave_line01" />
+    <item android:duration="200" android:drawable="@drawable/game_wave_line02" />
+    <item android:duration="200" android:drawable="@drawable/game_wave_line03" />
+    <item android:duration="200" android:drawable="@drawable/game_wave_line04" />
+    <item android:duration="200" android:drawable="@drawable/game_wave_line05" />
+    <item android:duration="200" android:drawable="@drawable/game_wave_line06" />
+    <item android:duration="200" android:drawable="@drawable/game_wave_line07" />
+    <item android:duration="200" android:drawable="@drawable/game_wave_line08" />
+    <item android:duration="200" android:drawable="@drawable/game_wave_line09" />
+    <item android:duration="200" android:drawable="@drawable/game_wave_line10" />
+    <item android:duration="200" android:drawable="@drawable/game_wave_line11" />
+    <item android:duration="200" android:drawable="@drawable/game_wave_line12" />
+    <item android:duration="200" android:drawable="@drawable/game_wave_line13" />
+    <item android:duration="200" android:drawable="@drawable/game_wave_line14" />
+</animation-list>

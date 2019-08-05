@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/rate_bg_up" android:adjustViewBounds="true" android:contentDescription="@null" />
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:background="@drawable/rate_bg_down" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="31.0dip" android:paddingEnd="31.0dip">
+        <TextView android:textSize="15.0sp" android:textColor="#ff010101" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="14.0dip" android:text="@string/rate_title" android:fontFamily="@font/roboto_medium" />
+        <TextView android:textSize="13.0sp" android:textColor="#ff636262" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="27.0dip" android:text="@string/rate_content" android:fontFamily="@font/roboto_medium" />
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="24.0dip" android:layout_marginBottom="27.0dip">
+            <TextView android:textSize="14.0sp" android:textColor="@android:color/black" android:gravity="center" android:id="@id/tvNo" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/rate_no" android:layout_weight="1.0" android:fontFamily="@font/roboto_medium" />
+            <TextView android:textSize="15.0sp" android:textColor="#fffefefe" android:gravity="center" android:id="@id/tvYes" android:background="@drawable/rate_yes_bg" android:paddingTop="13.0dip" android:paddingBottom="13.0dip" android:clickable="true" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/rate_yes" android:layout_weight="1.0" android:fontFamily="@font/roboto_medium" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">பொய் கண்டறியும்</string>
+    <string name="cancel">ரத்து</string>
+    <string name="common_lie">பொய்</string>
+    <string name="common_truth">உண்மை</string>
+    <string name="do_you_want_to_exit">பயன்பாட்டை வெளியேற விரும்புகிறீர்களா?</string>
+    <string name="exit">வெளியேறு</string>
+    <string name="game_analyzing">முடிவுகளை பகுப்பாய்வு ...</string>
+    <string name="game_result_got">கிடைத்தது</string>
+    <string name="game_scan_abort">ஸ்கேன் ரத்துசெய்யப்பட்டது</string>
+    <string name="game_scan_complete">ஸ்கேனிங் முடிந்தது.</string>
+    <string name="game_scanning">ஸ்கேன் செய்கிறது ...</string>
+    <string name="game_start">நீண்ட கைரேகை அழுத்தவும்.</string>
+    <string name="guide_how">எப்படி விளையாடுவது</string>
+    <string name="guide_next">அடுத்த</string>
+    <string name="guide_word">உங்கள் நண்பர்களை மகிழ்விக்கவும். உங்கள் நண்பர் கைரேகை ஸ்கேனரை அழுத்தவும் மற்றும் பொய் சோதனை செய்யட்டும். தொகுதி விசையை அழுத்துவதன் மூலம் நீங்கள் முடிவுகளை கட்டுப்படுத்தலாம். விசையை அதிகரிப்பது சத்தியம்.</string>
+    <string name="install">நிறுவ</string>
+    <string name="main_play">விளையாடு</string>
+    <string name="main_preset">முன்னமைக்கப்பட்ட</string>
+    <string name="policy_click">தனியுரிமை கொள்கை</string>
+    <string name="policy_read">இந்த பயன்பாட்டைப் பயன்படுத்துவதன் மூலம், நீங்கள் படித்து ஒப்புக்கொண்டீர்கள் %s.</string>
+    <string name="policy_start">தொடக்கம்</string>
+    <string name="preset_start">ஆனது START</string>
+    <string name="preset_title">ப்ரெசெட் முறை</string>
+    <string name="preset_word">முன்னமைக்கப்பட்ட முறை நீங்கள் அடுத்த 5 ஸ்கேனிங் முடிவுகளை முன்னெடுக்க அனுமதிக்கிறது. இப்போது உங்கள் நண்பர்களோ அல்லது குடும்பத்தோரை ஏமாற்றுங்கள்.</string>
+    <string name="privacy">தனியுரிமை கொள்கை</string>
+    <string name="rate_content">இந்த பயன்பாட்டை நீங்கள் விரும்பினால், தயவுசெய்து Google Play இல் 5 நட்சத்திரங்கள் தரவும். நன்றி மிகவும்!</string>
+    <string name="rate_no">நன்றி, நன்றி</string>
+    <string name="rate_title">இந்த பயன்பாட்டை நீங்கள் விரும்புகிறீர்களா?</string>
+    <string name="rate_yes">5 நட்சத்திரங்கள்!</string>
+</resources>

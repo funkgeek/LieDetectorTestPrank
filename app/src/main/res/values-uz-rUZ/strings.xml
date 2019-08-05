@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Yolg'on detektori"</string>
+    <string name="cancel">Bekor qilish</string>
+    <string name="common_lie">"YO'Q"</string>
+    <string name="common_truth">Haqiqat</string>
+    <string name="do_you_want_to_exit">Ilovadan chiqmoqchimisiz?</string>
+    <string name="exit">Chiqish</string>
+    <string name="game_analyzing">Natijani tahlil qilish ...</string>
+    <string name="game_result_got">OK, GOT</string>
+    <string name="game_scan_abort">Tarama bekor qilindi</string>
+    <string name="game_scan_complete">"Internet saytlarini ko'rish tugallandi."</string>
+    <string name="game_scanning">"Internet saytlarini ko'rish ..."</string>
+    <string name="game_start">Barmoq izini uzoqroq bosing.</string>
+    <string name="guide_how">"Qanday o'ynash kerak"</string>
+    <string name="guide_next">Keyingi</string>
+    <string name="guide_word">"Do'stlaringizni prank qiling. Do'stingiz barmoq izlarini skanerni bosib, yolg'on testini qiling. Ovoz tugmachasini bosib natijani nazorat qilasiz. Ovozni baland qilish tugmasi - bu haqiqat va ovoz balandligi tugmachasi yolg'ondir."</string>
+    <string name="install">"O'rnatish"</string>
+    <string name="main_play">PLAY</string>
+    <string name="main_preset">PRESET</string>
+    <string name="policy_click">Maxfiylik siyosati</string>
+    <string name="policy_read">"Ushbu dasturdan foydalanib siz o'qigan va qabul qilgansiz %s."</string>
+    <string name="policy_start">Boshlang</string>
+    <string name="preset_start">START</string>
+    <string name="preset_title">PRESET MODI</string>
+    <string name="preset_word">"Oldindan o'rnatilgan rejim sizga keyingi 5 ta ko'rish natijasini oldindan belgilash imkonini beradi. Endi do'stlaringiz yoki oilangizni aldab qo'ying."</string>
+    <string name="privacy">Maxfiylik siyosati</string>
+    <string name="rate_content">Agar ushbu ilovani sevsangiz, iltimos, bizga Google Play-da 5-yulduz bahosini bering. Katta rahmat!</string>
+    <string name="rate_no">"YO'Q, RAHMAT"</string>
+    <string name="rate_title">Ushbu ilovani sevasizmi?</string>
+    <string name="rate_yes">5 yulduz!</string>
+</resources>

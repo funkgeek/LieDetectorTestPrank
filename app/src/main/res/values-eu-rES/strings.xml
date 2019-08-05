@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lie Detector</string>
+    <string name="cancel">Utzi</string>
+    <string name="common_lie">gezur</string>
+    <string name="common_truth">TRUTH</string>
+    <string name="do_you_want_to_exit">Aplikazioa irten nahi duzu?</string>
+    <string name="exit">Irten</string>
+    <string name="game_analyzing">Emaitza aztertzea ...</string>
+    <string name="game_result_got">OK, GOT IT</string>
+    <string name="game_scan_abort">Eskaneatzea bertan behera utzi da</string>
+    <string name="game_scan_complete">Bukatutakoan eskaneatzea.</string>
+    <string name="game_scanning">Bila ...</string>
+    <string name="game_start">Luze sakatu hatz-marka.</string>
+    <string name="guide_how">Nola jokatu</string>
+    <string name="guide_next">hurrengo</string>
+    <string name="guide_word">Prank zure lagunak. Utzi laguna sakatu hatz-marka eskanerra eta gezur-proba egin. Emaitza kontrolatzen duzu bolumenaren tekla sakatuz. Bolumena igotzeko tekla egia eta bolumena behera gezurra da.</string>
+    <string name="install">Instalatu</string>
+    <string name="main_play">JOKATU</string>
+    <string name="main_preset">aurrez ezarritako</string>
+    <string name="policy_click">Pribatutasun politika</string>
+    <string name="policy_read">Aplikazio hau erabiliz, irakurri eta onartu duzu %s.</string>
+    <string name="policy_start">start</string>
+    <string name="preset_start">START</string>
+    <string name="preset_title">PRESET MODE</string>
+    <string name="preset_word">Aurrez zehaztutako modua hurrengo 5 eskaneatze emaitzak aurrez uzteko aukera ematen dizu. Itxura zure lagunak edo familiak orain.</string>
+    <string name="privacy">Pribatutasun politika</string>
+    <string name="rate_content">Aplikazio hau maite baduzu, eman iezaguzu 5 izarreko tarifa Google Play zerbitzuan. Mila esker!</string>
+    <string name="rate_no">EZ ESKERRIK ASKO</string>
+    <string name="rate_title">Aplikazio hau maite al duzu?</string>
+    <string name="rate_yes">5 izar!</string>
+</resources>

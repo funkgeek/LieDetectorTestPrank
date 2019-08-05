@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Լի Դետեկտոր</string>
+    <string name="cancel">Չեղարկել</string>
+    <string name="common_lie">ՊԱՏԱՍԽԱՆ</string>
+    <string name="common_truth">ՃՇՄԱՐՏՈՒԹՅՈՒՆԸ</string>
+    <string name="do_you_want_to_exit">Ցանկանում եք դուրս գալ հավելվածից:</string>
+    <string name="exit">Ելք</string>
+    <string name="game_analyzing">Վերլուծելով արդյունքը ...</string>
+    <string name="game_result_got">ԼԱՎ, ՀԱՍԿԱՑԱ</string>
+    <string name="game_scan_abort">Ստուգումը չեղարկվեց</string>
+    <string name="game_scan_complete">Սկան ավարտվեց:</string>
+    <string name="game_scanning">Սկան ...</string>
+    <string name="game_start">Long Սեղմեք մատնահետքը:</string>
+    <string name="guide_how">Ինչպես խաղալ</string>
+    <string name="guide_next">Հաջորդը</string>
+    <string name="guide_word">Խնդիր քո ընկերներին: Թող ձեր ընկերը սեղմեք մատնահետքի սկաների եւ կատարի ստի փորձությունը: Դուք վերահսկում եք արդյունքը, սեղմելով ձայնային բանալին: Ծավալի բանալին ճշմարտությունն է եւ ծավալի բանալին սուտ է:</string>
+    <string name="install">Տեղադրեք</string>
+    <string name="main_play">PLAY</string>
+    <string name="main_preset">PRESET- ը</string>
+    <string name="policy_click">Գաղտնիության քաղաքականություն</string>
+    <string name="policy_read">Օգտագործելով այս հավելվածը, դուք կարդացել եւ համաձայնվել եք %s.</string>
+    <string name="policy_start">Սկսեք</string>
+    <string name="preset_start">START- ը</string>
+    <string name="preset_title">PRESET MODE</string>
+    <string name="preset_word">Նախադրված ռեժիմը թույլ է տալիս կանխորոշել հաջորդ 5 սկանավորման արդյունքները: Խաբեք ձեր ընկերներին կամ ընտանիքներին:</string>
+    <string name="privacy">Գաղտնիության քաղաքականություն</string>
+    <string name="rate_content">Եթե դուք սիրում եք այս հավելվածը, խնդրում ենք մեզ 5 աստղանիշ Google Play- ում: Շատ շնորհակալություն!</string>
+    <string name="rate_no">ՈՉ, ՇՆՈՐՀԱԿԱԼՈՒԹՅՈՒՆ</string>
+    <string name="rate_title">Դուք սիրում եք այս հավելվածը:</string>
+    <string name="rate_yes">5 աստղ:</string>
+</resources>

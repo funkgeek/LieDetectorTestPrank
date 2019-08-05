@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">جھوٹ پکڑنے والا</string>
+    <string name="cancel">منسوخ کریں</string>
+    <string name="common_lie">LIE</string>
+    <string name="common_truth">راستہ</string>
+    <string name="do_you_want_to_exit">کیا آپ ایپ سے باہر نکلنا چاہتے ہیں؟</string>
+    <string name="exit">باہر نکلیں</string>
+    <string name="game_analyzing">نتیجہ تجزیہ ...</string>
+    <string name="game_result_got">ٹھیک ہے سمجھ گیا</string>
+    <string name="game_scan_abort">اسکین منسوخ کر دیا گیا</string>
+    <string name="game_scan_complete">اسکیننگ مکمل ہوگیا</string>
+    <string name="game_scanning">سکیننگ ...</string>
+    <string name="game_start">لانگ فنگر پرنٹ دبائیں.</string>
+    <string name="guide_how">کیسے کھیلنا ہے</string>
+    <string name="guide_next">اگلے</string>
+    <string name="guide_word">اپنے دوستوں کو سجانا. آپ کے دوست کو فنگر پرنٹ سکینر پر دبائیں اور جھوٹ آزمائیں. آپ حجم کلیدی دباؤ کے ذریعہ نتیجہ کو کنٹرول کرتے ہیں. حجم اوپر کی کلید سچ ہے اور کلیدی حجم کلید ہے.</string>
+    <string name="install">انسٹال کریں</string>
+    <string name="main_play">کھیلیں</string>
+    <string name="main_preset">پیش سیٹ</string>
+    <string name="policy_click">پرائیویسی پالیسی</string>
+    <string name="policy_read">اس ایپلیکیشن کا استعمال کرتے ہوئے، آپ نے پڑھا اور اتفاق کیا ہے %s.</string>
+    <string name="policy_start">شروع کریں</string>
+    <string name="preset_start">START</string>
+    <string name="preset_title">پیش سیٹ موڈ</string>
+    <string name="preset_word">پیش سیٹ موڈ آپ کو اگلے 5 سکیننگ کے نتائج پیش کرنے کی اجازت دیتا ہے. اپنے دوستوں یا خاندانوں کو ابھی بیوکوف</string>
+    <string name="privacy">پرائیویسی پالیسی</string>
+    <string name="rate_content">اگر آپ اس اپلی کیشن سے پیار کرتے ہیں تو، براہ مہربانی ہمیں Google Play پر 5 ستارے کی شرح دیں. بہت شکریہ!</string>
+    <string name="rate_no">نہیں شکریہ</string>
+    <string name="rate_title">کیا آپ اس اپلی کیشن سے محبت کرتے ہیں؟</string>
+    <string name="rate_yes">5 ستارے!</string>
+</resources>

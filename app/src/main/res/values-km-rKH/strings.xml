@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lie Detector</string>
+    <string name="cancel">បោះបង់</string>
+    <string name="common_lie">LIE</string>
+    <string name="common_truth">ការពិត</string>
+    <string name="do_you_want_to_exit">តើអ្នកចង់ចាកចេញពីកម្មវិធីមែនទេ?</string>
+    <string name="exit">ចេញ</string>
+    <string name="game_analyzing">កំពុងវិភាគលទ្ធផល ...</string>
+    <string name="game_result_got">បានយល់ហើយ</string>
+    <string name="game_scan_abort">ការស្កេនត្រូវបានលុបចោល</string>
+    <string name="game_scan_complete">ការស្កេនបានបញ្ចប់។</string>
+    <string name="game_scanning">កំពុងស្កេន ...</string>
+    <string name="game_start">ឡុងចុចស្នាមម្រាមដៃ។</string>
+    <string name="guide_how">របៀបលេង</string>
+    <string name="guide_next">បន្ទាប់</string>
+    <string name="guide_word">Prank មិត្តភក្តិរបស់អ្នក។ សូមឱ្យមិត្តរបស់អ្នកចុចម៉ាស៊ីនស្កេនស្នាមម្រាមដៃនិងធ្វើតេស្តនិយាយកុហក។ អ្នកត្រួតពិនិត្យលទ្ធផលដោយចុចគ្រាប់ចុចកម្រិតសំឡេង។ គន្លឹះកម្រិតសំឡេងគឺជាការពិតនិងសំឡេងចុះខ្សោយគឺជាការកុហក។</string>
+    <string name="install">ដំឡើង</string>
+    <string name="main_play">ចាក់</string>
+    <string name="main_preset">PRESET</string>
+    <string name="policy_click">គោលការណ៍ភាពឯកជន</string>
+    <string name="policy_read">ដោយប្រើកម្មវិធីនេះអ្នកបានអាននិងយល់ព្រម %s.</string>
+    <string name="policy_start">ចាប់ផ្តើម</string>
+    <string name="preset_start">START</string>
+    <string name="preset_title">ម៉ូដ PRESET</string>
+    <string name="preset_word">របៀបកំណត់ជាមុនអនុញ្ញាតឱ្យអ្នកកំណត់ជាមុននូវលទ្ធផលស្កេន 5 បន្ទាប់។ ល្ងីល្ងើរមិត្តភក្តិឬក្រុមគ្រួសាររបស់អ្នកឥឡូវនេះ។</string>
+    <string name="privacy">គោលការណ៍ភាពឯកជន</string>
+    <string name="rate_content">ប្រសិនបើអ្នកចូលចិត្តកម្មវិធីនេះសូមផ្តល់ឱ្យយើងនូវអត្រាផ្កាយ 5 នៅលើ Google Play ។ អរគុណច្រើន!</string>
+    <string name="rate_no">អត់អីទេអរគុណហើយ</string>
+    <string name="rate_title">តើអ្នកចូលចិត្តកម្មវិធីនេះទេ?</string>
+    <string name="rate_yes">5 ផ្កាយ!</string>
+</resources>

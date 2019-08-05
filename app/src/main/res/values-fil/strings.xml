@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lie Detector</string>
+    <string name="cancel">Kanselahin</string>
+    <string name="common_lie">BAKIT</string>
+    <string name="common_truth">KATOTOHANAN</string>
+    <string name="do_you_want_to_exit">Gusto mo bang lumabas sa app?</string>
+    <string name="exit">Lumabas</string>
+    <string name="game_analyzing">Pag-aaral ng resulta ...</string>
+    <string name="game_result_got">OK, GOT IT</string>
+    <string name="game_scan_abort">Kinansela ang pag-scan</string>
+    <string name="game_scan_complete">Nakumpleto ang pag-scan.</string>
+    <string name="game_scanning">Pag-scan ...</string>
+    <string name="game_start">Long Pindutin ang fingerprint.</string>
+    <string name="guide_how">Paano laruin</string>
+    <string name="guide_next">Susunod</string>
+    <string name="guide_word">Kalikutan ang iyong mga kaibigan. Hayaang pindutin ng iyong kaibigan ang fingerprint scanner at gawin ang pagsubok sa kasinungalingan. Kinokontrol mo ang resulta sa pamamagitan ng pagpindot sa volume key. Dami ng susi ay katotohanan at dami ng down key ay hindi nagsasabi ng totoo.</string>
+    <string name="install">I-install</string>
+    <string name="main_play">MAGLARO</string>
+    <string name="main_preset">PRESET</string>
+    <string name="policy_click">Patakaran sa Pagkapribado</string>
+    <string name="policy_read">Sa pamamagitan ng paggamit ng application na ito, nabasa mo at sumang-ayon sa %s.</string>
+    <string name="policy_start">Magsimula</string>
+    <string name="preset_start">START</string>
+    <string name="preset_title">PRESET MODE</string>
+    <string name="preset_word">Hinahayaan ka ng Preset na Mode na itakda ang susunod na 5 mga resulta sa pag-scan. Fool ang iyong mga kaibigan o pamilya ngayon.</string>
+    <string name="privacy">Patakaran sa Pagkapribado</string>
+    <string name="rate_content">Kung mahilig ka sa app na ito, mangyaring bigyan kami ng 5 star rate sa Google Play. Maraming salamat!</string>
+    <string name="rate_no">SALAMAT NALANG</string>
+    <string name="rate_title">Gustung-gusto mo ba ang app na ito?</string>
+    <string name="rate_yes">5 Stars!</string>
+</resources>

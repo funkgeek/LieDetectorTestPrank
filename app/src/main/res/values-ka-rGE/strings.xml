@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">სიცრუის დეტექტორი</string>
+    <string name="cancel">გაუქმება</string>
+    <string name="common_lie">LIE</string>
+    <string name="common_truth">სიმართლე</string>
+    <string name="do_you_want_to_exit">გსურთ აპლიკაციის გასასვლელად?</string>
+    <string name="exit">გასვლა</string>
+    <string name="game_analyzing">შედეგების ანალიზი ...</string>
+    <string name="game_result_got">კარგი, გავიგე</string>
+    <string name="game_scan_abort">სკანირება გაუქმდა</string>
+    <string name="game_scan_complete">სკანირება დასრულდა.</string>
+    <string name="game_scanning">სკანირება ...</string>
+    <string name="game_start">დიდხანს დააჭირეთ თითის ანაბეჭდი.</string>
+    <string name="guide_how">როგორ ვითამაშოთ</string>
+    <string name="guide_next">შემდეგი</string>
+    <string name="guide_word">გაახარეთ თქვენი მეგობრები. ნება თქვენი მეგობრის დააჭირეთ თითის ანაბეჭდის სკანერი და გააკეთოს ტყუილი ტესტი. თქვენ აკონტროლებთ შედეგს დაჭერით მოცულობის ღილაკს. გასაღები გასაღები არის სიმართლე და მოცულობა ქვემოთ გასაღები არის ტყუილი.</string>
+    <string name="install">\u1c93აინსტალირება</string>
+    <string name="main_play">თამაში</string>
+    <string name="main_preset">წინამორბედი</string>
+    <string name="policy_click">\u1c99ონფიდენციალურობის პოლიტიკა</string>
+    <string name="policy_read">ამ განცხადების გამოყენებით, წაიკითხე და დათანხმდით %s.</string>
+    <string name="policy_start">დაწყება</string>
+    <string name="preset_start">START</string>
+    <string name="preset_title">წინასწარი რეჟიმი</string>
+    <string name="preset_word">წინასწარ რეჟიმი საშუალებას მოგცემთ წინასწარ დაგეგმოთ შემდეგი 5 სკანირების შედეგები. გაახარეთ თქვენი მეგობრები ან ოჯახი.</string>
+    <string name="privacy">\u1c99ონფიდენციალურობის პოლიტიკა</string>
+    <string name="rate_content">თუ ეს აპლიკაცი მიყვარს, გთხოვთ მოგვცეს 5 ვარსკვლავიანი ვარსკვლავები Google Play- ზე. \u1c93იდი მადლობა!</string>
+    <string name="rate_no">\u1c90\u1ca0\u1c90 \u1c92\u1c9b\u1c90\u1c93\u1c9a\u1c9d\u1c91\u1c97</string>
+    <string name="rate_title">გიყვართ ეს აპლიკაცია?</string>
+    <string name="rate_yes">5 ვარსკვლავი!</string>
+</resources>

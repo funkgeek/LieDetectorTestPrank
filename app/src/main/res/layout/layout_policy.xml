@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:background="@drawable/policy_bg" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Space android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_weight="127.0" />
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Space android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_weight="1.0" />
+        <TextView android:textColor="@android:color/white" android:gravity="center" android:id="@id/tvContent" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="2.0" android:lineSpacingExtra="10.0dip" android:textAllCaps="true" android:fontFamily="@font/roboto_medium" />
+        <Space android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_weight="1.0" />
+    </LinearLayout>
+    <Space android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_weight="41.0" />
+    <TextView android:textSize="20.0sp" android:textColor="#ffffffff" android:gravity="center" android:id="@id/tvStart" android:background="@drawable/main_btn1" android:layout_width="232.0dip" android:layout_height="54.0dip" android:text="@string/policy_start" android:textAllCaps="true" android:fontFamily="@font/roboto_medium" />
+    <Space android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_weight="52.0" />
+</LinearLayout>

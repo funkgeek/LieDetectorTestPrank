@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:background="@drawable/preset_bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.legacy.widget.Space android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_weight="89.0" />
+    <TextView android:textSize="35.0sp" android:textColor="#ff1dffed" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/preset_title" android:fontFamily="@font/usuzi_0" />
+    <TextView android:textSize="15.0sp" android:textColor="@android:color/white" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="44.0dip" android:layout_marginTop="18.0dip" android:layout_marginRight="44.0dip" android:text="@string/preset_word" android:lineSpacingExtra="4.0dip" android:fontFamily="@font/omnes_light" />
+    <androidx.legacy.widget.Space android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_weight="33.0" />
+    <RelativeLayout android:id="@id/layoutPreset0" android:layout_width="196.0dip" android:layout_height="43.0dip">
+        <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/preset_btn1" android:scaleType="fitCenter" android:contentDescription="@null" />
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:textSize="19.0sp" android:textColor="#ff1dffed" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="21.0dip" android:text="1" android:fontFamily="@font/usuzi_0" />
+            <TextView android:textSize="19.0sp" android:gravity="center" android:id="@id/tvPreset0" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" android:fontFamily="@font/usuzi_0" />
+        </LinearLayout>
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/layoutPreset1" android:layout_width="196.0dip" android:layout_height="43.0dip" android:layout_marginTop="17.0dip">
+        <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/preset_btn1" android:scaleType="fitCenter" android:contentDescription="@null" />
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:textSize="19.0sp" android:textColor="#ff1dffed" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="21.0dip" android:text="2" android:fontFamily="@font/usuzi_0" />
+            <TextView android:textSize="19.0sp" android:gravity="center" android:id="@id/tvPreset1" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" android:fontFamily="@font/usuzi_0" />
+        </LinearLayout>
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/layoutPreset2" android:layout_width="196.0dip" android:layout_height="43.0dip" android:layout_marginTop="17.0dip">
+        <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/preset_btn1" android:scaleType="fitCenter" android:contentDescription="@null" />
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:textSize="19.0sp" android:textColor="#ff1dffed" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="21.0dip" android:text="3" android:fontFamily="@font/usuzi_0" />
+            <TextView android:textSize="19.0sp" android:gravity="center" android:id="@id/tvPreset2" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" android:fontFamily="@font/usuzi_0" />
+        </LinearLayout>
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/layoutPreset3" android:layout_width="196.0dip" android:layout_height="43.0dip" android:layout_marginTop="17.0dip">
+        <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/preset_btn1" android:scaleType="fitCenter" android:contentDescription="@null" />
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:textSize="19.0sp" android:textColor="#ff1dffed" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="21.0dip" android:text="4" android:fontFamily="@font/usuzi_0" />
+            <TextView android:textSize="19.0sp" android:gravity="center" android:id="@id/tvPreset3" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" android:fontFamily="@font/usuzi_0" />
+        </LinearLayout>
+    </RelativeLayout>
+    <RelativeLayout android:id="@id/layoutPreset4" android:layout_width="196.0dip" android:layout_height="43.0dip" android:layout_marginTop="17.0dip">
+        <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/preset_btn1" android:scaleType="fitCenter" android:contentDescription="@null" />
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:textSize="19.0sp" android:textColor="#ff1dffed" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="21.0dip" android:text="5" android:fontFamily="@font/usuzi_0" />
+            <TextView android:textSize="19.0sp" android:gravity="center" android:id="@id/tvPreset4" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" android:fontFamily="@font/usuzi_0" />
+        </LinearLayout>
+    </RelativeLayout>
+    <androidx.legacy.widget.Space android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_weight="53.0" />
+    <RelativeLayout android:id="@id/layoutStart" android:layout_width="231.0dip" android:layout_height="61.0dip">
+        <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/preset_btn2" android:scaleType="fitCenter" android:contentDescription="@null" />
+        <TextView android:textSize="19.0sp" android:textColor="#ff52f9ff" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/preset_start" android:layout_centerInParent="true" android:fontFamily="@font/usuzi_0" />
+    </RelativeLayout>
+    <androidx.legacy.widget.Space android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_weight="33.0" />
+</LinearLayout>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">అబద్దాలను కనిపెట్టు యంత్రం</string>
+    <string name="cancel">రద్దు</string>
+    <string name="common_lie">లై</string>
+    <string name="common_truth">సత్యము</string>
+    <string name="do_you_want_to_exit">మీరు అనువర్తనం నుండి నిష్క్రమించాలనుకుంటున్నారా?</string>
+    <string name="exit">నిష్క్రమించు</string>
+    <string name="game_analyzing">ఫలితాన్ని విశ్లేషించడం ...</string>
+    <string name="game_result_got">సరే అర్థమయ్యింది</string>
+    <string name="game_scan_abort">స్కాన్ రద్దు చేయబడింది</string>
+    <string name="game_scan_complete">స్కానింగ్ పూర్తయింది.</string>
+    <string name="game_scanning">స్కానింగ్ ...</string>
+    <string name="game_start">పొడవు వేలిముద్రను నొక్కండి.</string>
+    <string name="guide_how">ఎలా ఆడాలి</string>
+    <string name="guide_next">తరువాత</string>
+    <string name="guide_word">మీ స్నేహితులను పంచడం. మీ స్నేహితుడు వేలిముద్రల స్కానర్ను నొక్కండి మరియు అబద్ధం పరీక్ష చేయండి. మీరు వాల్యూమ్ కీని నొక్కడం ద్వారా ఫలితాన్ని నియంత్రిస్తారు. కీ అప్ వాల్యూమ్ నిజం మరియు వాల్యూమ్ డౌన్ కీ ఉంది.</string>
+    <string name="install">ఇన్స్టాల్</string>
+    <string name="main_play">PLAY</string>
+    <string name="main_preset">ప్రీసెట్</string>
+    <string name="policy_click">గోప్యతా విధానం</string>
+    <string name="policy_read">ఈ అనువర్తనాన్ని ఉపయోగించడం ద్వారా, మీరు చదివారు మరియు అంగీకరించారు %s.</string>
+    <string name="policy_start">ప్రారంభం</string>
+    <string name="preset_start">START</string>
+    <string name="preset_title">ప్రీసెట్ మోడ్</string>
+    <string name="preset_word">ప్రీసెట్ మోడ్ మీరు తదుపరి 5 స్కానింగ్ ఫలితాలను ఆరంభించటానికి అనుమతిస్తుంది. ఇప్పుడు మీ స్నేహితులు లేదా కుటుంబాలను ఫూల్ చేయండి.</string>
+    <string name="privacy">గోప్యతా విధానం</string>
+    <string name="rate_content">మీరు ఈ అనువర్తనాన్ని ఇష్టపడినట్లయితే, దయచేసి Google Play లో మాకు 5 నక్షత్రాల రేటును ఇవ్వండి. చాలా కృతజ్ఞతలు!</string>
+    <string name="rate_no">లేదు, ధన్యవాదాలు</string>
+    <string name="rate_title">మీరు ఈ అనువర్తనాన్ని ప్రేమిస్తున్నారా?</string>
+    <string name="rate_yes">5 నక్షత్రాలు!</string>
+</resources>

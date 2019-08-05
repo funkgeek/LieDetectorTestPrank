@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pengesan penipuan</string>
+    <string name="cancel">Batalkan</string>
+    <string name="common_lie">LIE</string>
+    <string name="common_truth">KEBENARAN</string>
+    <string name="do_you_want_to_exit">Adakah anda mahu keluar dari aplikasinya?</string>
+    <string name="exit">Keluar</string>
+    <string name="game_analyzing">Menganalisis hasil ...</string>
+    <string name="game_result_got">OK, GOT IT</string>
+    <string name="game_scan_abort">Imbas dibatalkan</string>
+    <string name="game_scan_complete">Mengimbas selesai.</string>
+    <string name="game_scanning">Mengimbas ...</string>
+    <string name="game_start">Long Tekan cap jari.</string>
+    <string name="guide_how">Cara bermain</string>
+    <string name="guide_next">Seterusnya</string>
+    <string name="guide_word">Prank kawan anda. Biarkan rakan anda menekan pengimbas cap jari dan melakukan ujian dusta. Anda mengawal hasilnya dengan menekan kekunci kelantangan. Kunci kelantangan adalah kebenaran dan kekunci kelantangan adalah berbohong.</string>
+    <string name="install">Pasang</string>
+    <string name="main_play">PLAY</string>
+    <string name="main_preset">PRESET</string>
+    <string name="policy_click">Dasar Privasi</string>
+    <string name="policy_read">Dengan menggunakan aplikasi ini, anda telah membaca dan bersetuju untuk %s.</string>
+    <string name="policy_start">Mulakan</string>
+    <string name="preset_start">START</string>
+    <string name="preset_title">MODE PRESET</string>
+    <string name="preset_word">Mod Pratetap membolehkan anda mempratetkan hasil pengimbasan 5 seterusnya. Buang rakan atau keluarga anda sekarang.</string>
+    <string name="privacy">Dasar Privasi</string>
+    <string name="rate_content">Jika anda suka aplikasi ini, sila beri kami kadar 5 bintang di Google Play. Terima kasih banyak-banyak!</string>
+    <string name="rate_no">TIDAK, TERIMA KASIH</string>
+    <string name="rate_title">Adakah anda suka aplikasi ini?</string>
+    <string name="rate_yes">5 Bintang!</string>
+</resources>

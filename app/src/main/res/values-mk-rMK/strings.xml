@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Лаже детектор</string>
+    <string name="cancel">Откажи</string>
+    <string name="common_lie">ЛАГА</string>
+    <string name="common_truth">ВИСТИНА</string>
+    <string name="do_you_want_to_exit">Дали сакате да излезете од апликацијата?</string>
+    <string name="exit">Излез</string>
+    <string name="game_analyzing">Анализирање на резултатот ...</string>
+    <string name="game_result_got">ВО РЕД, СФАТИВ</string>
+    <string name="game_scan_abort">Скенирањето е откажано</string>
+    <string name="game_scan_complete">Скенирањето е завршено.</string>
+    <string name="game_scanning">Скенирање ...</string>
+    <string name="game_start">Долго Притиснете го отпечатокот.</string>
+    <string name="guide_how">Како да играш</string>
+    <string name="guide_next">Следно</string>
+    <string name="guide_word">Извиди ги твоите пријатели. Нека вашиот пријател притисне на скенер за отпечатоци и го прави тестот за лаги. Вие го контролирате резултатот со притискање на копчето за јачина на звук. Копче за зголемување на јачината на звукот е вистинито и клучот за заглавување надолу.</string>
+    <string name="install">Инсталирај</string>
+    <string name="main_play">PLAY</string>
+    <string name="main_preset">PRESET</string>
+    <string name="policy_click">Политика за приватност</string>
+    <string name="policy_read">Со користење на оваа апликација, сте прочитале и се согласиле %s.</string>
+    <string name="policy_start">Започнете</string>
+    <string name="preset_start">START</string>
+    <string name="preset_title">PRESET MODE</string>
+    <string name="preset_word">Режимот за предупредување ви овозможува да ги поставите следните 5 скенирање резултати. Сега преплаши ги твоите пријатели или семејства.</string>
+    <string name="privacy">Политика за приватност</string>
+    <string name="rate_content">Доколку ја сакате оваа апликација, ве молиме да ни дадете стапка од 5 ѕвезди на Google Play. Благодарам многу!</string>
+    <string name="rate_no">НЕ, БЛАГОДАРАМ</string>
+    <string name="rate_title">Дали ја сакаш оваа апликација?</string>
+    <string name="rate_yes">5 ѕвезди!</string>
+</resources>

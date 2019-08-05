@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">खोटे शोधक</string>
+    <string name="cancel">रद्द करा</string>
+    <string name="common_lie">LIE</string>
+    <string name="common_truth">सत्य</string>
+    <string name="do_you_want_to_exit">आपण अॅपमधून बाहेर पडू इच्छिता का?</string>
+    <string name="exit">बाहेर पडा</string>
+    <string name="game_analyzing">परिणाम विश्लेषित करीत आहे ...</string>
+    <string name="game_result_got">ठीक, मला समजले</string>
+    <string name="game_scan_abort">स्कॅन रद्द केला</string>
+    <string name="game_scan_complete">स्कॅन करणे पूर्ण झाले.</string>
+    <string name="game_scanning">स्कॅन करत आहे ...</string>
+    <string name="game_start">लांब फिंगरप्रिंट दाबा</string>
+    <string name="guide_how">कसे खेळायचे</string>
+    <string name="guide_next">पुढे</string>
+    <string name="guide_word">आपल्या मित्रांची निंदा. आपल्या मित्राला फिंगरप्रिंट स्कॅनर दाबा आणि खोटे टेस्ट करू द्या. आपण व्हॉल्यूम की दाबून परिणाम नियंत्रित करता. व्हॉल्यूम अप की सत्य आहे आणि व्हॉल्यूम खाली की खोटे आहे.</string>
+    <string name="install">स्थापित करा</string>
+    <string name="main_play">खेळा</string>
+    <string name="main_preset">प्रीसेट</string>
+    <string name="policy_click">गोपनीयता धोरण</string>
+    <string name="policy_read">हा अनुप्रयोग वापरुन आपण वाचले आणि मान्य केले %s.</string>
+    <string name="policy_start">प्रारंभ करा</string>
+    <string name="preset_start">प्रारंभ करा</string>
+    <string name="preset_title">प्रीसेट मोड</string>
+    <string name="preset_word">प्रीसेट मोड आपल्याला पुढील 5 स्कॅनिंग परिणाम प्रीसेट करण्याची परवानगी देते. आता आपल्या मित्रांना किंवा कुटुंबियांना मूर्ख बनवा.</string>
+    <string name="privacy">गोपनीयता धोरण</string>
+    <string name="rate_content">आपल्याला हा अॅप आवडल्यास, कृपया आम्हाला Google Play वर 5 स्टार दर द्या. खूपच धन्यवाद!</string>
+    <string name="rate_no">नको धन्यवाद</string>
+    <string name="rate_title">आपल्याला हा अॅप आवडतो का?</string>
+    <string name="rate_yes">5 तारे!</string>
+</resources>

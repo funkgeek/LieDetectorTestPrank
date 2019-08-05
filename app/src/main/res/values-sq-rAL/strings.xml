@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gënjeshtar Detector</string>
+    <string name="cancel">anuloj</string>
+    <string name="common_lie">LIE</string>
+    <string name="common_truth">VËRTETA</string>
+    <string name="do_you_want_to_exit">Dëshiron të dilësh nga aplikacioni?</string>
+    <string name="exit">dalje</string>
+    <string name="game_analyzing">Duke analizuar rezultatin ...</string>
+    <string name="game_result_got">E MORA VESH, E KUPTOVA</string>
+    <string name="game_scan_abort">Skanimi u anulua</string>
+    <string name="game_scan_complete">Skanimi përfundoi.</string>
+    <string name="game_scanning">Skanimi ...</string>
+    <string name="game_start">Gjatë Shtypni gjurmën e gishtave.</string>
+    <string name="guide_how">Si të luani</string>
+    <string name="guide_next">tjetër</string>
+    <string name="guide_word">Bëni miqtë tuaj. Lëreni shokun tuaj të shtypni skanerin e gjurmëve të gishtave dhe bëni testin e gënjeshtrës Ju kontrolloni rezultatin duke shtypur tastin e volumit. Vëllimi deri kyç është e vërteta dhe vëllimi poshtë kyç është gënjeshtër.</string>
+    <string name="install">instaloj</string>
+    <string name="main_play">LUAJ</string>
+    <string name="main_preset">PRESET</string>
+    <string name="policy_click">Politika e privatësisë</string>
+    <string name="policy_read">Duke përdorur këtë aplikacion, ju keni lexuar dhe pranuar %s.</string>
+    <string name="policy_start">fillim</string>
+    <string name="preset_start">START</string>
+    <string name="preset_title">MODE PRESET</string>
+    <string name="preset_word">Modeli i paracaktuar ju lejon të paracaktoni rezultatet e ardhshme 5 të skanimit. Budalla miqtë ose familjet tuaja tani.</string>
+    <string name="privacy">Politika e privatësisë</string>
+    <string name="rate_content">Nëse e doni këtë aplikacion, na jep një normë 5 yje në Luaj me Google. Faleminderit shume!</string>
+    <string name="rate_no">JO FALEMINDERIT</string>
+    <string name="rate_title">A e doni këtë aplikacion?</string>
+    <string name="rate_yes">5 Stars!</string>
+</resources>

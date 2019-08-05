@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ലീ ഡിറ്റക്ടർ</string>
+    <string name="cancel">റദ്ദാക്കുക</string>
+    <string name="common_lie">LIE</string>
+    <string name="common_truth">സത്യം</string>
+    <string name="do_you_want_to_exit">അപ്ലിക്കേഷൻ അവസാനിപ്പിക്കാൻ നിങ്ങൾക്ക് താൽപ്പര്യമുണ്ടോ?</string>
+    <string name="exit">പുറത്ത്</string>
+    <string name="game_analyzing">ഫലം അപഗ്രഥിക്കുന്നു ...</string>
+    <string name="game_result_got">മനസ്സിലായി</string>
+    <string name="game_scan_abort">സ്കാൻ റദ്ദാക്കി</string>
+    <string name="game_scan_complete">സ്കാനിംഗ് പൂർത്തിയായി.</string>
+    <string name="game_scanning">സ്കാൻ ചെയ്യുന്നു ...</string>
+    <string name="game_start">വിരലടയാളം ദീർഘനേരം അമർത്തുക.</string>
+    <string name="guide_how">എങ്ങനെ കളിക്കാം</string>
+    <string name="guide_next">അടുത്തത്</string>
+    <string name="guide_word">നിങ്ങളുടെ സുഹൃത്തുക്കളെ വന്ദിക്കുക. നിങ്ങളുടെ സുഹൃത്ത് വിരലടയാള സ്കാനർ അമർത്തി നുണ പരിശോധന നടത്തുക. വോള്യം കീ അമർത്തി ഫലത്തെ നിയന്ത്രിക്കുന്നു. വോളിയം അപ് കീ ആണ് സത്യം വോളിയം ഡൌൺ കീ നുണയാണ്.</string>
+    <string name="install">ഇൻസ്റ്റാൾ ചെയ്യുക</string>
+    <string name="main_play">കളിക്കുക</string>
+    <string name="main_preset">പ്രിരെക്ക്</string>
+    <string name="policy_click">സ്വകാര്യതാനയം</string>
+    <string name="policy_read">ഈ അപ്ലിക്കേഷൻ ഉപയോഗിക്കുന്നതിലൂടെ നിങ്ങൾ വായിക്കുകയും സമ്മതിക്കുകയും ചെയ്തു %s.</string>
+    <string name="policy_start">ആരംഭിക്കുക</string>
+    <string name="preset_start">ആരംഭിക്കുക</string>
+    <string name="preset_title">പ്രീസെറ്റ് മോഡയം</string>
+    <string name="preset_word">പ്രീസെറ്റ് മോഡ് നിങ്ങൾ അടുത്ത 5 സ്കാനിംഗ് ഫലങ്ങൾ സജ്ജമാക്കാൻ അനുവദിക്കുന്നു. ഇപ്പോൾ നിങ്ങളുടെ സുഹൃത്തുക്കളെയോ കുടുംബാംഗങ്ങളെയോ വഞ്ചിക്കുക.</string>
+    <string name="privacy">സ്വകാര്യതാനയം</string>
+    <string name="rate_content">നിങ്ങൾ ഈ അപ്ലിക്കേഷൻ ഇഷ്ടപ്പെടുകയാണെങ്കിൽ, ദയവായി Google Play- ൽ ഞങ്ങളെ 5 നക്ഷത്രചിഹ്ന നിരക്ക് നൽകുക. ഒത്തിരി നന്ദി!</string>
+    <string name="rate_no">വേണ്ട, നന്ദി</string>
+    <string name="rate_title">ഈ ആപ്പിന് നിങ്ങൾ ഇഷ്ടമാണോ?</string>
+    <string name="rate_yes">5 നക്ഷത്രങ്ങൾ!</string>
+</resources>

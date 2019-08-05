@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">लेट डिटेक्टर</string>
+    <string name="cancel">रद्द गर्नुहोस्</string>
+    <string name="common_lie">LIE</string>
+    <string name="common_truth">TRUTH</string>
+    <string name="do_you_want_to_exit">के तपाईँ एप बाहिर निस्कन चाहनुहुन्छ?</string>
+    <string name="exit">बाहिर निस्कनुहोस्</string>
+    <string name="game_analyzing">परिणामको विश्लेषण गर्दै ...</string>
+    <string name="game_result_got">ठीक छ, यो आईयो</string>
+    <string name="game_scan_abort">स्क्यान रद्द गरियो</string>
+    <string name="game_scan_complete">स्क्यानिङ पुरा भयो।</string>
+    <string name="game_scanning">स्क्यान गर्दै ...</string>
+    <string name="game_start">फिंगरप्रिन्ट थिच्नुहोस्।</string>
+    <string name="guide_how">कसरी खेल्ने</string>
+    <string name="guide_next">अर्को</string>
+    <string name="guide_word">तपाईंका साथीहरू सान्त्वना गर्नुहोस्। तपाईंको साथीले औंलाछाप स्क्यानर थिच्नुहोस् र झूट परीक्षण गर्नुहोस्। तपाईंले भोल्युम कुञ्जी थिचेर परिणामलाई नियन्त्रण गर्नुहुन्छ। भोल्युम अप कुञ्जी सत्य हो र आवाज तल कुञ्जी झूटो छ।</string>
+    <string name="install">स्थापना गर्नुहोस्</string>
+    <string name="main_play">खेल्नु</string>
+    <string name="main_preset">PRESET</string>
+    <string name="policy_click">गोपनीयता नीति</string>
+    <string name="policy_read">यो अनुप्रयोग प्रयोग गरेर, तपाईंले पढ्नु भएको छ र सहमत हुनुभयो %s.</string>
+    <string name="policy_start">सुरू गर्नुहोस्</string>
+    <string name="preset_start">START</string>
+    <string name="preset_title">प्रेसिजन मोड</string>
+    <string name="preset_word">पूर्वसेट मोड तपाईंलाई अर्को 5 स्क्यानिङ नतिजा पूर्वनिर्धारित गर्न अनुमति दिन्छ। अब तपाईंका साथीहरू वा परिवारहरूलाई बेवास्ता गर्नुहोस्।</string>
+    <string name="privacy">गोपनीयता नीति</string>
+    <string name="rate_content">यदि तपाईं यो एपलाई माया गर्नुहुन्छ भने, कृपया हामीलाई Google Play मा 5 तारा दर दिनुहोस्। धेरै धेरै धन्यवाद!</string>
+    <string name="rate_no">होइन, धन्यवाद</string>
+    <string name="rate_title">के तपाईँ यो एपलाई माया गर्नुहुन्छ?</string>
+    <string name="rate_yes">5 ताराहरु!</string>
+</resources>

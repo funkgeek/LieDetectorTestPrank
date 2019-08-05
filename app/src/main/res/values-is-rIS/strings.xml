@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lie Detector</string>
+    <string name="cancel">Hætta við</string>
+    <string name="common_lie">LIE</string>
+    <string name="common_truth">Sannleikur</string>
+    <string name="do_you_want_to_exit">Viltu hætta við forritið?</string>
+    <string name="exit">Hætta</string>
+    <string name="game_analyzing">Greining á niðurstöðum ...</string>
+    <string name="game_result_got">OK NAÐI ÞVI</string>
+    <string name="game_scan_abort">Skannaður niður</string>
+    <string name="game_scan_complete">Skönnun lokið.</string>
+    <string name="game_scanning">Skönnun ...</string>
+    <string name="game_start">Long Ýttu á fingrafarið.</string>
+    <string name="guide_how">Hvernig á að spila</string>
+    <string name="guide_next">Næst</string>
+    <string name="guide_word">Prank vini þína. Leyfðu vini þínum að ýta á fingrafarskannann og ljúka prófinu. Þú stjórnar niðurstöðum með því að ýta á hljóðstyrkstakkann. Hljóðstyrkurinn er sannleikur og bindi niður lykillinn er lygi.</string>
+    <string name="install">Setja upp</string>
+    <string name="main_play">LEIKA</string>
+    <string name="main_preset">PRESET</string>
+    <string name="policy_click">Friðhelgisstefna</string>
+    <string name="policy_read">Með því að nota þetta forrit hefur þú lesið og samþykkt að %s.</string>
+    <string name="policy_start">Byrja</string>
+    <string name="preset_start">START</string>
+    <string name="preset_title">PRESET MODE</string>
+    <string name="preset_word">Forstillta stilling gerir þér kleift að stilla næstu 5 skönnunarniðurstöður. Bjáðu vinum þínum eða fjölskyldum núna.</string>
+    <string name="privacy">Friðhelgisstefna</string>
+    <string name="rate_content">Ef þú elskar þessa app skaltu gefa okkur 5 stjörnur á Google Play. Kærar þakkir!</string>
+    <string name="rate_no">NEI TAKK</string>
+    <string name="rate_title">Elskarðu þennan app?</string>
+    <string name="rate_yes">5 stjörnur!</string>
+</resources>

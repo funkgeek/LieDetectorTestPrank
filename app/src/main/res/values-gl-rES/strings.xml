@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Detector de Lie</string>
+    <string name="cancel">Cancelar</string>
+    <string name="common_lie">Mentir</string>
+    <string name="common_truth">Verdade</string>
+    <string name="do_you_want_to_exit">¿Queres saír da aplicación?</string>
+    <string name="exit">Saír</string>
+    <string name="game_analyzing">Analizando o resultado ...</string>
+    <string name="game_result_got">OK, GOT IT</string>
+    <string name="game_scan_abort">A exploración cancelouse</string>
+    <string name="game_scan_complete">Escaneado completado.</string>
+    <string name="game_scanning">Escaneando ...</string>
+    <string name="game_start">Longo Preme a impresión dixital.</string>
+    <string name="guide_how">Como xogar</string>
+    <string name="guide_next">Seguinte</string>
+    <string name="guide_word">Broma os teus amigos. Deixe o seu amigo presionar o escáner de impresión dixital e facer a proba de mentiras. Controla o resultado premendo a tecla de volume. A tecla de volume de volume é a clave de verdade e de baixo volume.</string>
+    <string name="install">Instalar</string>
+    <string name="main_play">XOGAR</string>
+    <string name="main_preset">PRESET</string>
+    <string name="policy_click">Política de Privacidade</string>
+    <string name="policy_read">Ao usar esta aplicación, leu e aceptaches %s.</string>
+    <string name="policy_start">Inicio</string>
+    <string name="preset_start">INICIO</string>
+    <string name="preset_title">PRESET MODE</string>
+    <string name="preset_word">O modo predefinido permítelle preestablecer os próximos 5 resultados de escaneo. Embaraçade os teus amigos ou familias agora.</string>
+    <string name="privacy">Política de Privacidade</string>
+    <string name="rate_content">Se che gusta esta aplicación, fainos unha tarifa de 5 estrellas en Google Play. Moitas grazas!</string>
+    <string name="rate_no">NON, GRAZAS</string>
+    <string name="rate_title">¿Quere esta aplicación?</string>
+    <string name="rate_yes">5 estrelas!</string>
+</resources>

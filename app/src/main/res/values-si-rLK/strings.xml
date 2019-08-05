@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lie Detector</string>
+    <string name="cancel">අවලංගු කරන්න</string>
+    <string name="common_lie">ලුයිස්</string>
+    <string name="common_truth">සත්යය</string>
+    <string name="do_you_want_to_exit">ඔබට ඇප් එකක් නැවැත්වීමට අවශ්යද?</string>
+    <string name="exit">පිටවීම</string>
+    <string name="game_analyzing">ප්රතිඵල විශ්ලේෂණය ...</string>
+    <string name="game_result_got">හරි, ඒක හොදයි</string>
+    <string name="game_scan_abort">ස්කෑන් අවලංගු කලේය</string>
+    <string name="game_scan_complete">පරිලෝකනය සම්පූර්ණයි.</string>
+    <string name="game_scanning">ස්කෑන් කිරීම ...</string>
+    <string name="game_start">දිගු ඇඟිලි සලකුණක් යොදන්න.</string>
+    <string name="guide_how">ක්රීඩා කරන්නේ කෙසේද</string>
+    <string name="guide_next">ඊලඟ</string>
+    <string name="guide_word">ඔයාගේ යාළුවෝ කරමු. ඔබේ මිතුරා ඇඟිලි සලකුණු ස්කෑනරය මුද්රණය කර බොරු පරීක්ෂණය කරන්න. ශබ්දයේ යතුර එබීමෙන් ප්රතිපලය පාලනය කරයි. වෙළුම් යතුර සත්ය වන අතර පරිමාවේ පහළ යතුර බොරු ය.</string>
+    <string name="install">ස්ථාපනය කරන්න</string>
+    <string name="main_play">ප්ලේය</string>
+    <string name="main_preset">PRESET</string>
+    <string name="policy_click">රහස්යතා ප්රතිපත්තිය</string>
+    <string name="policy_read">මෙම යෙදුම භාවිතා කිරීමෙන් ඔබ කියවා එකඟ වී ඇත %s.</string>
+    <string name="policy_start">ආරම්භ කරන්න</string>
+    <string name="preset_start">START</string>
+    <string name="preset_title">PRESET MODE</string>
+    <string name="preset_word">පෙරසැකසුම් ප්රකාරය මඟින් ඔබට තවත් 5 ස්කෑනිං ප්රතිඵල අනුගමනය කිරීමට ඉඩ සලසයි. දැන් ඔබේ යහළුවන් හෝ පවුල් නොමඟ යැවීම.</string>
+    <string name="privacy">රහස්යතා ප්රතිපත්තිය</string>
+    <string name="rate_content">ඔබ මෙම යෙදුමට කැමතියි නම්, Google Play හි 5 තරු ලකුණු ලබා දෙන්න. බොහෝම ස්තූතියි!</string>
+    <string name="rate_no">නැ ස්තුතියි</string>
+    <string name="rate_title">ඔබ මෙම යෙදුමට ආදරෙයිද?</string>
+    <string name="rate_yes">තරු 5!</string>
+</resources>

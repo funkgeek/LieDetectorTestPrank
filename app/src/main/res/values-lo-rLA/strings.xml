@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lie Detector</string>
+    <string name="cancel">ຍົກເລີກ</string>
+    <string name="common_lie">LIE</string>
+    <string name="common_truth">ຄວາມຈິງ</string>
+    <string name="do_you_want_to_exit">ທ່ານຕ້ອງການອອກຈາກ app?</string>
+    <string name="exit">ອອກຈາກ</string>
+    <string name="game_analyzing">ການວິເຄາະຜົນໄດ້ຮັບ ...</string>
+    <string name="game_result_got">OK, GOT IT</string>
+    <string name="game_scan_abort">Scan canceled</string>
+    <string name="game_scan_complete">ການສະແກນແລ້ວສົມບູນ.</string>
+    <string name="game_scanning">ການສະແກນ ...</string>
+    <string name="game_start">ຍາວກົດນິ້ວມື.</string>
+    <string name="guide_how">ຫຼິ້ນແນວໃດ</string>
+    <string name="guide_next">ຕໍ່ໄປ</string>
+    <string name="guide_word">Prank ຫມູ່ເພື່ອນຂອງທ່ານ. ໃຫ້ເພື່ອນຂອງທ່ານກົດເຄື່ອງສະແກນນິ້ວມືແລະເຮັດການທົດສອບການນອນ. ທ່ານຄວບຄຸມຜົນໄດ້ຮັບໂດຍກົດປຸ່ມ volume. ກຸນແຈທີ່ມີປະລິມານສູງແມ່ນຄວາມຈິງແລະການຫຼຸດລົງທີ່ສໍາຄັນ.</string>
+    <string name="install">ຕິດຕັ້ງ</string>
+    <string name="main_play">PLAY</string>
+    <string name="main_preset">PRESET</string>
+    <string name="policy_click">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ</string>
+    <string name="policy_read">ໂດຍການນໍາໃຊ້ຄໍາຮ້ອງສະຫມັກນີ້, ທ່ານໄດ້ອ່ານແລະຕົກລົງເຫັນດີ %s.</string>
+    <string name="policy_start">ເລີ່ມຕົ້ນ</string>
+    <string name="preset_start">START</string>
+    <string name="preset_title">PRESET MODE</string>
+    <string name="preset_word">ໂຫມດການຕັ້ງຄ່າອະນຸຍາດໃຫ້ທ່ານຕັ້ງຄ່າຜົນໄດ້ຮັບ 5 ຄັ້ງຕໍ່ໄປ. ຫລອກລວງຫມູ່ເພື່ອນຫຼືຄອບຄົວຂອງທ່ານຕອນນີ້.</string>
+    <string name="privacy">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ</string>
+    <string name="rate_content">ຖ້າທ່ານຮັກ app ນີ້, ກະລຸນາໃຫ້ພວກເຮົາອັດຕາ 5 ດາວໃນ Google Play. ຂອບໃຈຫຼາຍໆ!</string>
+    <string name="rate_no">ບໍ່ຂອບໃຈ</string>
+    <string name="rate_title">ທ່ານຮັກ app ນີ້ບໍ?</string>
+    <string name="rate_yes">5 ດາວ!</string>
+</resources>

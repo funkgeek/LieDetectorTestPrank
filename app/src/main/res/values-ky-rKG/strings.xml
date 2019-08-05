@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">калпты аныктагычты</string>
+    <string name="cancel">жокко чыгаруу</string>
+    <string name="common_lie">LIE</string>
+    <string name="common_truth">ЧЫНДЫК</string>
+    <string name="do_you_want_to_exit">колдонмону чыгуу келеби?</string>
+    <string name="exit">чыгуу</string>
+    <string name="game_analyzing">натыйжасын анализдөө ...</string>
+    <string name="game_result_got">OK, ТҮШҮНДҮМ</string>
+    <string name="game_scan_abort">издөө токтотулду</string>
+    <string name="game_scan_complete">Изделүүдө аяктады.</string>
+    <string name="game_scanning">Изделүүдө ...</string>
+    <string name="game_start">Лонг Press манжа.</string>
+    <string name="guide_how">Кантип ойнойт</string>
+    <string name="guide_next">кийинки</string>
+    <string name="guide_word">Досторду Prank. досум манжа сканер басып калп тест кылалы. Сиз көлөмү баскычын басуу менен натыйжасын контролдоону. Көлөмү баскыч баскыч төмөн чындык жана көлөмү калп.</string>
+    <string name="install">орнотуу</string>
+    <string name="main_play">PLAY</string>
+    <string name="main_preset">алдын ала</string>
+    <string name="policy_click">Privacy Policy</string>
+    <string name="policy_read">Бул колдонмону пайдалануу менен, сиз окуп, макул %s.</string>
+    <string name="policy_start">баштоо</string>
+    <string name="preset_start">START</string>
+    <string name="preset_title">Алдын ала MODE</string>
+    <string name="preset_word">Preset Mode кийинки 5 сканерден жыйынтыктарын ёзёгън мүмкүнчүлүк берет. эми сиз озунуздун досторунузду жана үй-бүлөлөрдү, алдашат.</string>
+    <string name="privacy">Privacy Policy</string>
+    <string name="rate_content">Бул колдонмону жакшы болсо, бизге Google Play боюнча 5 жылдыз ченди бер. Рахмат ушунчалык көп!</string>
+    <string name="rate_no">ЖОК, РАХМАТ</string>
+    <string name="rate_title">Бул колдонмону жакшы көрөмбү?</string>
+    <string name="rate_yes">5 жылдыз !</string>
+</resources>

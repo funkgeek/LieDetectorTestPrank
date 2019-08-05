@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ਲਿੱਗੀ ਡੀਟੈਕਟਰ</string>
+    <string name="cancel">ਰੱਦ ਕਰੋ</string>
+    <string name="common_lie">ਝੂਠ ਬੋਲ</string>
+    <string name="common_truth">ਸੱਚ</string>
+    <string name="do_you_want_to_exit">ਕੀ ਤੁਸੀਂ ਐਪ ਤੋਂ ਬਾਹਰ ਜਾਣਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+    <string name="exit">ਨਿਕਾਸ</string>
+    <string name="game_analyzing">ਨਤੀਜਾ ਦਾ ਵਿਸ਼ਲੇਸ਼ਣ ਕਰ ਰਿਹਾ ਹੈ ...</string>
+    <string name="game_result_got">ਠੀਕ ਹੈ, ਸਮਝ ਗਿਆ</string>
+    <string name="game_scan_abort">ਸਕੈਨ ਰੱਦ ਕੀਤਾ</string>
+    <string name="game_scan_complete">ਸਕੈਨਿੰਗ ਪੂਰਾ ਹੋਇਆ</string>
+    <string name="game_scanning">ਸਕੈਨ ਕਰ ਰਿਹਾ ਹੈ ...</string>
+    <string name="game_start">ਲੰਮੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਨੂੰ ਦਬਾਓ</string>
+    <string name="guide_how">ਕਿਵੇਂ ਖੇਡਨਾ ਹੈ</string>
+    <string name="guide_next">ਅਗਲਾ</string>
+    <string name="guide_word">ਆਪਣੇ ਦੋਸਤਾਂ ਨੂੰ ਪਰੇਸ਼ਾਨ ਕਰੋ ਆਪਣੇ ਦੋਸਤ ਨੂੰ ਫਿੰਗਰਪਰਿੰਟ ਸਕੈਨਰ ਦਬਾਓ ਅਤੇ ਝੂਠ ਜਾਂਚ ਕਰੋ. ਤੁਸੀਂ ਵਾਲੀਅਮ ਦੀ ਕੁੰਜੀ ਨੂੰ ਦਬਾ ਕੇ ਨਤੀਜਾ ਕੰਟਰੋਲ ਕਰੋ ਵਾਲੀਅਮ ਅਪ ਕੁੰਜੀ ਸੱਚ ਹੈ ਅਤੇ ਕੁੰਜੀ ਘਟਾਉਣ ਵਾਲੀ ਕੁੰਜੀ ਝੂਠ ਹੈ.</string>
+    <string name="install">ਇੰਸਟਾਲ ਕਰੋ</string>
+    <string name="main_play">ਪਲੇ</string>
+    <string name="main_preset">PRESET</string>
+    <string name="policy_click">ਪਰਾਈਵੇਟ ਨੀਤੀ</string>
+    <string name="policy_read">ਇਸ ਐਪਲੀਕੇਸ਼ਨ ਦੀ ਵਰਤੋਂ ਕਰਕੇ, ਤੁਸੀਂ ਇਸ ਨੂੰ ਪੜ੍ਹਨ ਅਤੇ ਸਹਿਮਤ ਹੋਏ ਹਨ %s.</string>
+    <string name="policy_start">ਸ਼ੁਰੂ ਕਰੋ</string>
+    <string name="preset_start">START</string>
+    <string name="preset_title">ਪ੍ਰੀਸੇਟ ਮੋਡੀ</string>
+    <string name="preset_word">ਪ੍ਰੀਸੇਟ ਮੋਡ ਤੁਹਾਨੂੰ ਅਗਲੇ 5 ਸਕੈਨਿੰਗ ਨਤੀਜੇ ਪ੍ਰੀ-ਸੈੱਟ ਕਰਨ ਦੀ ਆਗਿਆ ਦਿੰਦਾ ਹੈ. ਆਪਣੇ ਦੋਸਤਾਂ ਜਾਂ ਪਰਿਵਾਰਾਂ ਨੂੰ ਹੁਣ ਮੂਰਖ ਬਣਾਉ.</string>
+    <string name="privacy">ਪਰਾਈਵੇਟ ਨੀਤੀ</string>
+    <string name="rate_content">ਜੇ ਤੁਸੀਂ ਇਸ ਐਪ ਨੂੰ ਪਸੰਦ ਕਰਦੇ ਹੋ, ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ ਸਾਨੂੰ Google Play ਤੇ 5 ਸਟਾਰ ਦੀ ਦਰ ਦਿਉ. ਬਹੁਤ ਬਹੁਤ ਧੰਨਵਾਦ!</string>
+    <string name="rate_no">ਨਹੀਂ ਧੰਨਵਾਦ</string>
+    <string name="rate_title">ਕੀ ਤੁਸੀਂ ਇਸ ਐਪ ਨੂੰ ਪਸੰਦ ਕਰਦੇ ਹੋ?</string>
+    <string name="rate_yes">5 ਸਟਾਰ!</string>
+</resources>

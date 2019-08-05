@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">မုသား Detector</string>
+    <string name="cancel">Cancel</string>
+    <string name="common_lie">မုသား</string>
+    <string name="common_truth">အမှန်တရားကို</string>
+    <string name="do_you_want_to_exit">သငျသညျပလီကေးရှင်းကို exit ချင်ပါသလား?</string>
+    <string name="exit">ထွက်ပေါက်</string>
+    <string name="game_analyzing">လေ့လာသုံးသပ်ခြင်းရလဒ် ...</string>
+    <string name="game_result_got">OK ကို, အိုင်တီရပြီ</string>
+    <string name="game_scan_abort">စကင်ဖတ်စစ်ဆေးဖျက်သိမ်း</string>
+    <string name="game_scan_complete">scanning ပြီးစီးခဲ့သည်။</string>
+    <string name="game_scanning">scanning ...</string>
+    <string name="game_start">Long ကစာနယ်ဇင်းလက်ဗွေ။</string>
+    <string name="guide_how">ကစားနည်း</string>
+    <string name="guide_next">နောက်တစ်ခု</string>
+    <string name="guide_word">သင့်ရဲ့မိတ်ဆွေတွေကိုနောက်ပြောင်မှုများ။ သင်၏အဆွေခင်ပွန်းလက်ဗွေစကင်နာကိုနှိပ်ခြင်းနှင့်မုသားစမ်းသပ်လုပ်ကြရအောင်။ သင့်အနေဖြင့်အသံအတိုးအကျယ် key ကိုနှိပ်ခြင်းအားဖြင့်ရလဒ်ထိန်းချုပ်ထားသည်။ Volume ကိုတက်သော့ချက်အမှန်တရားနှင့်အသံအတိုးအကျယ်ကိုချ key ကိုမုသားဖြစ်ပါတယ်။</string>
+    <string name="install">Install</string>
+    <string name="main_play">PLAY</string>
+    <string name="main_preset">preset</string>
+    <string name="policy_click">ကိုယ်ရေးအချက်အလက်မူဝါဒ</string>
+    <string name="policy_read">ဤလျှောက်လွှာကိုအသုံးပြုခြင်းအားဖြင့်သင်ဖတ်ကြပြီးဖို့သဘောတူ %s.</string>
+    <string name="policy_start">စတင်</string>
+    <string name="preset_start">START</string>
+    <string name="preset_title">preset MODE</string>
+    <string name="preset_word">ကြိုတင်ပြင် Mode ကိုသင်နောက်တစ်နေ့ 5 စကင်ဖတ်စစ်ဆေးဖို့ရလဒ်များကို preset ခွင့်ပြုသည်။ ယခုသင်၏မိတ်ဆွေများသို့မဟုတ်မိသားစုများအရူး။</string>
+    <string name="privacy">ကိုယ်ရေးအချက်အလက်မူဝါဒ</string>
+    <string name="rate_content">သငျသညျဒီ app ကိုချစ်ကြလျှင်, ကျွန်တော်တို့ကို Google Play တွင် 5 ကြယ်ပွမှုနှုန်းပေးပါ။ ကျေးဇူးအများကြီးတင်ပါတယ်!</string>
+    <string name="rate_no">ရပါတယ်ကျေးဇူးပါ</string>
+    <string name="rate_title">သငျသညျဒီ app ကိုချစ်သလား?</string>
+    <string name="rate_yes">5 Stars!</string>
+</resources>

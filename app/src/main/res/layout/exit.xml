@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:background="@drawable/smart_dialog_bg" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="33.0dip">
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="-33.0dip" android:src="@drawable/ic_gift" />
+        <TextView android:textSize="16.0sp" android:textColor="#ff000000" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:text="@string/do_you_want_to_exit" android:fontFamily="@font/roboto_medium" android:layout_marginStart="16.0dip" android:layout_marginEnd="16.0dip" />
+        <ScrollView android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+            <com.smart.droid.tech.ui.AutoLineFeedLayout android:id="@id/feature_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="17.0dip" />
+        </ScrollView>
+        <LinearLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="24.0dip" android:layout_marginBottom="21.0dip" android:layout_marginStart="17.0dip" android:layout_marginEnd="17.0dip">
+            <TextView android:textSize="14.0sp" android:textColor="#ffffffff" android:gravity="center" android:id="@id/tv_cancel" android:background="@drawable/smart_btn_cancel" android:layout_width="0.0dip" android:layout_height="36.0dip" android:text="@string/cancel" android:singleLine="true" android:includeFontPadding="false" android:layout_weight="1.0" android:textAllCaps="true" android:fontFamily="@font/roboto_medium" />
+            <TextView android:textSize="14.0sp" android:textColor="#ffffffff" android:gravity="center" android:id="@id/tv_exit" android:background="@drawable/smart_btn_exit" android:layout_width="0.0dip" android:layout_height="36.0dip" android:text="@string/exit" android:singleLine="true" android:includeFontPadding="false" android:layout_weight="1.0" android:textAllCaps="true" android:fontFamily="@font/roboto_medium" android:layout_marginStart="14.0dip" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:layout_gravity="center|left|top" android:background="@color/ad_text_bg" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="48.0dip">
+        <TextView android:textSize="11.0sp" android:textColor="@android:color/white" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="4.0dip" android:layout_marginRight="4.0dip" android:text="AD" android:maxLines="1" android:fontFamily="@font/roboto_medium" />
+    </LinearLayout>
+</FrameLayout>

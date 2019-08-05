@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Худлаа мэдрэгч</string>
+    <string name="cancel">Цуцлах</string>
+    <string name="common_lie">ҮНЭН</string>
+    <string name="common_truth">Үнэн</string>
+    <string name="do_you_want_to_exit">Та апп-аас гарахыг хүсч байна уу?</string>
+    <string name="exit">гарах</string>
+    <string name="game_analyzing">Үр дүнг шинжилж байна ...</string>
+    <string name="game_result_got">ОЙЛГОЛОО</string>
+    <string name="game_scan_abort">Scan хүчингүй болсон</string>
+    <string name="game_scan_complete">Скан хийж дууссан.</string>
+    <string name="game_scanning">Скан хийх ...</string>
+    <string name="game_start">Урт Хурууны хээг дар.</string>
+    <string name="guide_how">Яаж тоглох вэ</string>
+    <string name="guide_next">Дараачийн</string>
+    <string name="guide_word">Найзууддаа үлгэр дуурайл Хурууны хээ сканераа дарж, худлаа тест хий. Та дууны хэмжээг дарж үр дүнг хянана. Эзлэхүүний түлхүүр нь үнэн ба эзлэхүүний түлхүүр нь худлаа юм.</string>
+    <string name="install">Суулгах</string>
+    <string name="main_play">Тоглоом</string>
+    <string name="main_preset">PRESET</string>
+    <string name="policy_click">Нууцлалын бодлого</string>
+    <string name="policy_read">Энэ програмыг ашигласнаар та уншиж, зөвшөөрсөн байна %s.</string>
+    <string name="policy_start">Эхлээд</string>
+    <string name="preset_start">START</string>
+    <string name="preset_title">PRESET MODE</string>
+    <string name="preset_word">Preset Mode нь танд дараагийн 5 скан хийх үр дүнг урьдчилан харах боломжтой. Одоо найз нөхөд, гэр бүлүүддээ баярлалаа.</string>
+    <string name="privacy">Нууцлалын бодлого</string>
+    <string name="rate_content">Хэрэв та энэ апп-д дуртай бол Google Play дээр 5 одтой үнэмлэх өгнө үү. Маш их баярлалаа!</string>
+    <string name="rate_no">ҮГҮЙ ЭЭ БАЯРЛАЛАА</string>
+    <string name="rate_title">Та энэ апп-д дуртай юу?</string>
+    <string name="rate_yes">5 одтой</string>
+</resources>

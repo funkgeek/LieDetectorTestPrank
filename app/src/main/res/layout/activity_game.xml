@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@drawable/game_bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="210.0">
+            <ImageView android:layout_width="223.0dip" android:layout_height="23.0dip" android:src="@drawable/game_top" android:scaleType="fitCenter" android:layout_centerInParent="true" android:contentDescription="@null" />
+        </RelativeLayout>
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="730.0">
+            <ImageView android:id="@id/ivScreen" android:paddingLeft="17.0dip" android:paddingRight="10.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitCenter" android:layout_centerInParent="true" android:contentDescription="@null" />
+            <TextView android:textColor="@android:color/white" android:gravity="center" android:id="@id/tvScreenInfo" android:paddingLeft="36.0dip" android:paddingRight="36.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerInParent="true" android:lineSpacingExtra="20.0dip" android:fontFamily="@font/fixedsys" />
+        </RelativeLayout>
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="280.0">
+            <ImageView android:id="@id/ivWave" android:paddingLeft="24.0dip" android:paddingRight="24.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitCenter" android:layout_centerInParent="true" android:contentDescription="@null" />
+            <ImageView android:id="@id/ivWaveLine" android:paddingLeft="24.0dip" android:paddingRight="24.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="fitCenter" android:layout_centerInParent="true" android:contentDescription="@null" />
+        </RelativeLayout>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="775.0">
+            <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="fill_parent">
+                <ImageView android:id="@id/ivSound" android:layout_width="wrap_content" android:layout_height="0.0dip" android:src="@drawable/game_sound_on" android:scaleType="centerInside" android:maxWidth="112.0dip" android:layout_weight="1.0" android:contentDescription="@null" />
+                <ImageView android:id="@id/ivVibrate" android:layout_width="wrap_content" android:layout_height="0.0dip" android:src="@drawable/game_sound_on" android:scaleType="centerInside" android:maxWidth="112.0dip" android:layout_weight="1.0" android:contentDescription="@null" />
+                <ImageView android:id="@id/ivPower" android:layout_width="wrap_content" android:layout_height="0.0dip" android:src="@drawable/game_sound_on" android:scaleType="centerInside" android:maxWidth="112.0dip" android:layout_weight="1.0" android:contentDescription="@null" />
+            </LinearLayout>
+            <RelativeLayout android:id="@id/layoutScan" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="24.0dip">
+                <ImageView android:id="@id/ivScan" android:background="@null" android:layout_width="144.0dip" android:layout_height="168.0dip" android:layout_centerInParent="true" android:contentDescription="@null" />
+                <ImageView android:id="@id/ivScanBar" android:background="@null" android:layout_width="165.0dip" android:layout_height="43.0dip" android:src="@drawable/game_scan_line" android:layout_centerInParent="true" android:contentDescription="@null" />
+            </RelativeLayout>
+        </LinearLayout>
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:id="@id/bannerad" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="50.0dip" />
+    </LinearLayout>
+    <View android:id="@id/dialog_bg" android:background="#8f000000" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</RelativeLayout>

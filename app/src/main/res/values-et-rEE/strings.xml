@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lie Detector</string>
+    <string name="cancel">Tühista</string>
+    <string name="common_lie">LIE</string>
+    <string name="common_truth">Tõde</string>
+    <string name="do_you_want_to_exit">Kas soovite rakendusest väljuda?</string>
+    <string name="exit">Välju</string>
+    <string name="game_analyzing">Tulemuste analüüsimine ...</string>
+    <string name="game_result_got">OK, GOT IT</string>
+    <string name="game_scan_abort">Skaneerimine on tühistatud</string>
+    <string name="game_scan_complete">Skaneerimine on lõpetatud.</string>
+    <string name="game_scanning">Skannimine ...</string>
+    <string name="game_start">Pikk Vajutage sõrmejälge.</string>
+    <string name="guide_how">Kuidas mängida</string>
+    <string name="guide_next">Järgmine</string>
+    <string name="guide_word">Prank oma sõpru. Laske sõber vajutada sõrmejäljelugeja ja teha vale katse. Sa kontrolli tulemust, vajutades helitugevusnuppu. Helitugevuse suurendamise võti on tõde ja helitugevuse vähendamise võti on vale.</string>
+    <string name="install">Installige</string>
+    <string name="main_play">PLAY</string>
+    <string name="main_preset">PRESET</string>
+    <string name="policy_click">Privaatsuspoliitika</string>
+    <string name="policy_read">Kasutades seda rakendust, olete lugenud ja nõustunud %s.</string>
+    <string name="policy_start">Alusta</string>
+    <string name="preset_start">START</string>
+    <string name="preset_title">PRESET MODE</string>
+    <string name="preset_word">Eelseadistatud režiim võimaldab eelnevalt määrata 5 järgmist skaneerimise tulemust. Nalja oma sõpru või peresid nüüd.</string>
+    <string name="privacy">Privaatsuspoliitika</string>
+    <string name="rate_content">Kui sa armastad seda rakendust, siis palun andke meile 5-tärnine hind Google Plays. Suur tänu!</string>
+    <string name="rate_no">EI AITÄH</string>
+    <string name="rate_title">Kas sa armastad seda rakendust?</string>
+    <string name="rate_yes">5 tärni!</string>
+</resources>

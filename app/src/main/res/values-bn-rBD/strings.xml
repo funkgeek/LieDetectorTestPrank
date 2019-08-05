@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">মিথ্যা আবিষ্কারক</string>
+    <string name="cancel">বাতিল</string>
+    <string name="common_lie">মিথ্যা</string>
+    <string name="common_truth">সত্য</string>
+    <string name="do_you_want_to_exit">আপনি অ্যাপ্লিকেশন থেকে প্রস্থান করতে চান?</string>
+    <string name="exit">বাহির</string>
+    <string name="game_analyzing">ফলাফল বিশ্লেষণ ...</string>
+    <string name="game_result_got">ঠিক আছে বুঝেছি</string>
+    <string name="game_scan_abort">স্ক্যান বাতিল</string>
+    <string name="game_scan_complete">স্ক্যান করা সম্পন্ন হয়েছে</string>
+    <string name="game_scanning">স্ক্যান করা হচ্ছে ...</string>
+    <string name="game_start">দীর্ঘ আঙুলের ছাপ চাপুন</string>
+    <string name="guide_how">কিভাবে খেলতে হবে</string>
+    <string name="guide_next">পরবর্তী</string>
+    <string name="guide_word">আপনার বন্ধুদের কামড়ে আপনার বন্ধু আঙ্গুলের ছাপ স্ক্যানার টিপুন এবং মিথ্যা পরীক্ষা করবেন। আপনি ভলিউম কী টিপে ফলাফলটি নিয়ন্ত্রণ করুন। ভলিউম আপ কী হল সত্য এবং আয়তন নিচে কী মিথ্যা।</string>
+    <string name="install">ইনস্টল করুন</string>
+    <string name="main_play">প্লে</string>
+    <string name="main_preset">পূর্বাহ্নে নির্ধারিত</string>
+    <string name="policy_click">গোপনীয়তা নীতি</string>
+    <string name="policy_read">এই অ্যাপ্লিকেশন ব্যবহার করে, আপনি পড়া এবং সম্মত হয়েছে %s.</string>
+    <string name="policy_start">শুরু</string>
+    <string name="preset_start">শুরু</string>
+    <string name="preset_title">উপস্থাপন মোড</string>
+    <string name="preset_word">প্রিসেট মোড আপনাকে পরবর্তী 5 স্ক্যানিং ফলাফলগুলি সেট করার অনুমতি দেয়। এখন আপনার বন্ধুদের বা পরিবারগুলি নষ্ট করুন</string>
+    <string name="privacy">গোপনীয়তা নীতি</string>
+    <string name="rate_content">আপনি যদি এই অ্যাপ্লিকেশনটি পছন্দ করেন তবে দয়া করে Google Play এ আমাদের 5 টি তারকা রেট দিন। অনেক ধন্যবাদ!</string>
+    <string name="rate_no">না ধন্যবাদ</string>
+    <string name="rate_title">আপনি এই অ্যাপ্লিকেশন ভালবাসেন?</string>
+    <string name="rate_yes">5 তারা !</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಲೈ ಡಿಟೆಕ್ಟರ್</string>
+    <string name="cancel">ರದ್ದುಮಾಡಿ</string>
+    <string name="common_lie">ಲೈ</string>
+    <string name="common_truth">ಸತ್ಯ</string>
+    <string name="do_you_want_to_exit">ನೀವು ಅಪ್ಲಿಕೇಶನ್ ನಿರ್ಗಮಿಸಲು ಬಯಸುವಿರಾ?</string>
+    <string name="exit">ನಿರ್ಗಮನ</string>
+    <string name="game_analyzing">ಫಲಿತಾಂಶವನ್ನು ವಿಶ್ಲೇಷಿಸಲಾಗುತ್ತಿದೆ ...</string>
+    <string name="game_result_got">ಸರಿ, ಅರ್ಥ ಆಯಿತು</string>
+    <string name="game_scan_abort">ಸ್ಕ್ಯಾನ್ ರದ್ದುಗೊಳಿಸಲಾಗಿದೆ</string>
+    <string name="game_scan_complete">ಸ್ಕ್ಯಾನಿಂಗ್ ಪೂರ್ಣಗೊಂಡಿದೆ.</string>
+    <string name="game_scanning">ಸ್ಕ್ಯಾನ್ ಮಾಡಲಾಗುತ್ತಿದೆ ...</string>
+    <string name="game_start">ಫಿಂಗರ್ಪ್ರಿಂಟ್ ಅನ್ನು ದೀರ್ಘವಾಗಿ ಒತ್ತಿರಿ.</string>
+    <string name="guide_how">ಹೇಗೆ ಆಡುವುದು</string>
+    <string name="guide_next">ಮುಂದೆ</string>
+    <string name="guide_word">ನಿಮ್ಮ ಸ್ನೇಹಿತರನ್ನು ದುಃಖಿಸಿ. ನಿಮ್ಮ ಸ್ನೇಹಿತ ಫಿಂಗರ್ಪ್ರಿಂಟ್ ಸ್ಕ್ಯಾನರ್ ಅನ್ನು ಒತ್ತಿ ಮತ್ತು ಸುಳ್ಳು ಪರೀಕ್ಷೆಯನ್ನು ಮಾಡಲಿ. ಪರಿಮಾಣ ಕೀಲಿಯನ್ನು ಒತ್ತುವ ಮೂಲಕ ನೀವು ಫಲಿತಾಂಶವನ್ನು ನಿಯಂತ್ರಿಸುತ್ತೀರಿ. ವಾಲ್ಯೂಮ್ ಕೀಲಿಯು ಸತ್ಯ ಮತ್ತು ಕೀಲಿಯ ಕೆಳಭಾಗದ ಕೀಲಿಯು ಸುಳ್ಳು.</string>
+    <string name="install">ಸ್ಥಾಪಿಸಿ</string>
+    <string name="main_play">ಪ್ಲೇ</string>
+    <string name="main_preset">ಮೊದಲೇ</string>
+    <string name="policy_click">ಗೌಪ್ಯತಾ ನೀತಿ</string>
+    <string name="policy_read">ಈ ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಬಳಸುವ ಮೂಲಕ, ನೀವು ಓದಿದ್ದೀರಿ ಮತ್ತು ಒಪ್ಪಿದ್ದೀರಿ %s.</string>
+    <string name="policy_start">ಪ್ರಾರಂಭಿಸಿ</string>
+    <string name="preset_start">START</string>
+    <string name="preset_title">ಪೂರ್ವಸೂಚಕ ಕ್ರಮ</string>
+    <string name="preset_word">ಮೊದಲಿನ ಮೋಡ್ ಮುಂದಿನ 5 ಸ್ಕ್ಯಾನಿಂಗ್ ಫಲಿತಾಂಶಗಳನ್ನು ನೀವು ಹೊಂದಿಸಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ. ಈಗ ನಿಮ್ಮ ಸ್ನೇಹಿತರು ಅಥವಾ ಕುಟುಂಬಗಳನ್ನು ಮೋಸಗೊಳಿಸಿ.</string>
+    <string name="privacy">ಗೌಪ್ಯತಾ ನೀತಿ</string>
+    <string name="rate_content">ನೀವು ಈ ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಪ್ರೀತಿಸಿದರೆ, ದಯವಿಟ್ಟು Google Play ನಲ್ಲಿ 5 ನಕ್ಷತ್ರಗಳ ದರವನ್ನು ನೀಡಿ. ತುಂಬಾ ಧನ್ಯವಾದಗಳು!</string>
+    <string name="rate_no">ಬೇಡ ಧನ್ಯವಾದಗಳು</string>
+    <string name="rate_title">ನೀವು ಈ ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಪ್ರೀತಿಸುತ್ತೀರಾ?</string>
+    <string name="rate_yes">5 ನಕ್ಷತ್ರಗಳು!</string>
+</resources>
