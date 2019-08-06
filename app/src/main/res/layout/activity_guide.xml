@@ -6,7 +6,7 @@
     <androidx.legacy.widget.Space android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_weight="356.0" />
     <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="70.0">
         <androidx.legacy.widget.Space android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_weight="395.0" />
-        <TextView android:paddingTop="15dp" android:textSize="15.0sp" android:textColor="#ff49df49" android:gravity="center" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/common_truth" android:fontFamily="@font/omnes_medium" />
+        <TextView android:textSize="15.0sp" android:textColor="#ff49df49" android:gravity="center" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/common_truth" android:fontFamily="@font/omnes_medium" />
         <androidx.legacy.widget.Space android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_weight="685.0" />
     </LinearLayout>
     <androidx.legacy.widget.Space android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_weight="107.0" />
@@ -24,7 +24,7 @@
         <androidx.legacy.widget.Space android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_weight="47.0" />
     </LinearLayout>
     <RelativeLayout android:id="@id/layoutNext" android:layout_width="wrap_content" android:layout_height="0.0dip" android:layout_weight="167.0">
-        <ImageView android:layout_width="199.0dip" android:layout_height="35.0dip" android:src="@drawable/main_btn1" android:scaleType="fitCenter" android:layout_centerInParent="true" android:contentDescription="@null" />
+        <ImageView android:layout_width="199.0dip" android:layout_height="35.0dip" android:src="@drawable/common_btn" android:scaleType="fitCenter" android:layout_centerInParent="true" android:contentDescription="@null" />
         <TextView android:textSize="16.0sp" android:textColor="@android:color/white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/guide_next" android:layout_centerInParent="true" android:fontFamily="@font/omnes_medium" />
     </RelativeLayout>
     <androidx.legacy.widget.Space android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_weight="173.0" />
