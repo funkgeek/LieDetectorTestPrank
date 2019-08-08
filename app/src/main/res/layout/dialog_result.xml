@@ -1,22 +1,98 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <LinearLayout android:gravity="center" android:orientation="vertical" android:background="@drawable/game_result_bg" android:layout_width="306.0dip" android:layout_height="224.0dip" android:layout_centerInParent="true">
-        <androidx.legacy.widget.Space android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_weight="15.0" />
-        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
-            <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
-                <ImageView android:id="@id/ivTruth" android:layout_width="101.0dip" android:layout_height="101.0dip" android:scaleType="fitCenter" android:contentDescription="@null" />
-                <TextView android:textSize="16.0sp" android:id="@id/tvTruth" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/common_truth" android:fontFamily="@font/usuzi_0" />
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:layout_width="306.0dip"
+        android:layout_height="224.0dip"
+        android:layout_centerInParent="true"
+        android:background="@drawable/game_result_bg"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <androidx.legacy.widget.Space
+            android:layout_width="0.0dip"
+            android:layout_height="0.0dip"
+            android:layout_weight="15.0" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@id/ivTruth"
+                    android:layout_width="101.0dip"
+                    android:layout_height="101.0dip"
+                    android:contentDescription="@null"
+                    android:scaleType="fitCenter" />
+
+                <TextView
+                    android:id="@id/tvTruth"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/usuzi_0"
+                    android:text="@string/common_truth"
+                    android:textSize="16.0sp" />
             </LinearLayout>
-            <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
-                <ImageView android:id="@id/ivLie" android:layout_width="101.0dip" android:layout_height="101.0dip" android:scaleType="fitCenter" android:contentDescription="@null" />
-                <TextView android:textSize="16.0sp" android:id="@id/tvLie" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/common_lie" android:fontFamily="@font/usuzi_0" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@id/ivLie"
+                    android:layout_width="101.0dip"
+                    android:layout_height="101.0dip"
+                    android:contentDescription="@null"
+                    android:scaleType="fitCenter" />
+
+                <TextView
+                    android:id="@id/tvLie"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/usuzi_0"
+                    android:text="@string/common_lie"
+                    android:textSize="16.0sp" />
             </LinearLayout>
         </LinearLayout>
-        <RelativeLayout android:id="@id/layoutGot" android:layout_width="199.0dip" android:layout_height="35.0dip" android:layout_marginTop="18.0dip">
-            <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/common_btn" android:scaleType="fitCenter" android:contentDescription="@null" />
-            <TextView android:textSize="16.0sp" android:textColor="@android:color/white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/game_result_got" android:layout_centerInParent="true" android:fontFamily="@font/usuzi_0" />
+
+        <RelativeLayout
+            android:id="@id/layoutGot"
+            android:layout_width="199.0dip"
+            android:layout_height="35.0dip"
+            android:layout_marginTop="18.0dip">
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:contentDescription="@null"
+                android:scaleType="fitCenter"
+                android:src="@drawable/common_btn" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:fontFamily="@font/usuzi_0"
+                android:text="@string/game_result_got"
+                android:textColor="@android:color/white"
+                android:textSize="16.0sp" />
         </RelativeLayout>
-        <androidx.legacy.widget.Space android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_weight="41.0" />
+
+        <androidx.legacy.widget.Space
+            android:layout_width="0.0dip"
+            android:layout_height="0.0dip"
+            android:layout_weight="41.0" />
     </LinearLayout>
 </RelativeLayout>
