@@ -4,5 +4,5 @@
     <item android:state_pressed="true" android:drawable="@drawable/preset_btn12" />
     <item android:state_checked="true" android:drawable="@drawable/preset_btn12" />
     <item android:state_selected="true" android:drawable="@drawable/preset_btn12" />
-    <item android:drawable="@drawable/preset_btn11" />
+    <item android:drawable="@drawable/preset_btn12" />
 </selector>
